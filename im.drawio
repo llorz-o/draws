@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-02-10T11:12:03.890Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.96 Safari/537.36 Edg/88.0.705.50" etag="4XaCseCwapr-pIxc8lPf" version="14.2.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-02-10T11:13:14.506Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.96 Safari/537.36 Edg/88.0.705.50" etag="_vO751qiShKk2EU29bO4" version="14.2.9" type="github">
   <diagram id="dptpsnvWE5whhludS56b" name="第 1 页">
     <mxGraphModel dx="1278" dy="714" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -28,7 +28,15 @@
         <mxCell id="cuhIl7-wkCNXUHlKVymV-8" value="" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;fontColor=#4277BB;labelBackgroundColor=#ffffff;fontSize=12;spacingTop=3;image;image=img/lib/ibm/data/data_services.svg;" vertex="1" parent="1">
           <mxGeometry x="520" y="420" width="60" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="cuhIl7-wkCNXUHlKVymV-10" value="Data" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="cuhIl7-wkCNXUHlKVymV-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="cuhIl7-wkCNXUHlKVymV-10">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="400" y="280" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="550" y="280" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cuhIl7-wkCNXUHlKVymV-10" value="DB" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="530" y="400" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="cuhIl7-wkCNXUHlKVymV-11" value="write" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
@@ -72,6 +80,9 @@
         </mxCell>
         <mxCell id="cuhIl7-wkCNXUHlKVymV-27" value="Message" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="340" y="690" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="cuhIl7-wkCNXUHlKVymV-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="cuhIl7-wkCNXUHlKVymV-28" target="cuhIl7-wkCNXUHlKVymV-10">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="cuhIl7-wkCNXUHlKVymV-28" value="" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;fontColor=#4277BB;labelBackgroundColor=#ffffff;fontSize=12;spacingTop=3;image;image=img/lib/ibm/applications/app_server.svg;" vertex="1" parent="1">
           <mxGeometry x="340" y="250" width="60" height="60" as="geometry" />
@@ -124,6 +135,9 @@
         </mxCell>
         <mxCell id="cuhIl7-wkCNXUHlKVymV-44" value="MQ" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="300" y="794" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="cuhIl7-wkCNXUHlKVymV-49" value="RW" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="490" y="260" width="40" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
