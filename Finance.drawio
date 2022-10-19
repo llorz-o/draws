@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-10-19T10:40:11.153Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36 Edg/106.0.1370.47" etag="LT0qLC1pnASLgc7CsTXK" version="20.4.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-19T11:26:48.077Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36 Edg/106.0.1370.47" etag="mWvfSugQBoi8o5W7XHbo" version="20.4.1" type="github">
   <diagram id="9Q3Mq4Ar4MT8F39Ejmsf" name="第 1 页">
-    <mxGraphModel dx="733" dy="595" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
+    <mxGraphModel dx="348" dy="298" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" style="locked=1;" parent="0" />
@@ -69,17 +69,23 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="OQ_dTzq6LVlUhGsACV7K-9" value="数据" style="" parent="0" />
-        <mxCell id="OQ_dTzq6LVlUhGsACV7K-24" value="&lt;ol&gt;&lt;li&gt;Primary salary&lt;/li&gt;&lt;li&gt;Second salary&lt;/li&gt;&lt;/ol&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;fillStyle=auto;fontSize=8;" vertex="1" parent="OQ_dTzq6LVlUhGsACV7K-9">
+        <mxCell id="OQ_dTzq6LVlUhGsACV7K-24" value="&lt;ol&gt;&lt;li&gt;Primary salary 400k&lt;/li&gt;&lt;li&gt;Second salary 160k&lt;/li&gt;&lt;/ol&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;fillStyle=auto;fontSize=8;" vertex="1" parent="OQ_dTzq6LVlUhGsACV7K-9">
           <mxGeometry x="700" y="530" width="200" height="260" as="geometry" />
         </mxCell>
-        <mxCell id="OQ_dTzq6LVlUhGsACV7K-25" value="&lt;ol&gt;&lt;li&gt;house payment 20k&lt;/li&gt;&lt;li&gt;nanny 20k&lt;/li&gt;&lt;li&gt;wifi 1k&lt;/li&gt;&lt;li&gt;loads 1k&lt;/li&gt;&lt;li&gt;grocery 10k&lt;/li&gt;&lt;/ol&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;fillStyle=auto;fontSize=8;" vertex="1" parent="OQ_dTzq6LVlUhGsACV7K-9">
+        <mxCell id="OQ_dTzq6LVlUhGsACV7K-25" value="&lt;ol&gt;&lt;li&gt;house payment 20k&lt;/li&gt;&lt;li&gt;nanny 20k&lt;/li&gt;&lt;li&gt;wifi 1k&lt;/li&gt;&lt;li&gt;loads 1k&lt;/li&gt;&lt;li&gt;groceries 10k&lt;/li&gt;&lt;/ol&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;fillStyle=auto;fontSize=8;" vertex="1" parent="OQ_dTzq6LVlUhGsACV7K-9">
           <mxGeometry x="900" y="600" width="200" height="190" as="geometry" />
         </mxCell>
-        <mxCell id="OQ_dTzq6LVlUhGsACV7K-26" value="&lt;ol&gt;&lt;li&gt;Primary salary&lt;/li&gt;&lt;li&gt;Second salary&lt;/li&gt;&lt;/ol&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;fillStyle=auto;fontSize=8;" vertex="1" parent="OQ_dTzq6LVlUhGsACV7K-9">
+        <mxCell id="OQ_dTzq6LVlUhGsACV7K-26" value="&lt;ol&gt;&lt;li&gt;&lt;br&gt;&lt;/li&gt;&lt;/ol&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;fillStyle=auto;fontSize=8;" vertex="1" parent="OQ_dTzq6LVlUhGsACV7K-9">
           <mxGeometry x="900" y="850" width="200" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="OQ_dTzq6LVlUhGsACV7K-27" value="&lt;ol&gt;&lt;li&gt;Primary salary&lt;/li&gt;&lt;li&gt;Second salary&lt;/li&gt;&lt;/ol&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;fillStyle=auto;fontSize=8;" vertex="1" parent="OQ_dTzq6LVlUhGsACV7K-9">
+        <mxCell id="OQ_dTzq6LVlUhGsACV7K-27" value="&lt;ol&gt;&lt;li&gt;&lt;br&gt;&lt;/li&gt;&lt;/ol&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;fillStyle=auto;fontSize=8;" vertex="1" parent="OQ_dTzq6LVlUhGsACV7K-9">
           <mxGeometry x="700" y="850" width="200" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="OQ_dTzq6LVlUhGsACV7K-28" value="560k" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillStyle=auto;fontSize=8;" vertex="1" parent="OQ_dTzq6LVlUhGsACV7K-9">
+          <mxGeometry x="520" y="730" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="OQ_dTzq6LVlUhGsACV7K-29" value="360k" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillStyle=auto;fontSize=8;" vertex="1" parent="OQ_dTzq6LVlUhGsACV7K-9">
+          <mxGeometry x="1200" y="750" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
